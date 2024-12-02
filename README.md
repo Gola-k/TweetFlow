@@ -109,8 +109,6 @@ This project demonstrates how to build and deploy a crypto airdrop token on the 
 
 ### Notes
 
-This project is designed for the CrossFi Testnet. To deploy on the mainnet, ensure you have appropriate funds and permissions.
+This project is designed for the CrossFi Testnet. To deploy on the mainnet, ensure you have appropriate XFI funds and permissions.
 
 ---
-
-Let me know if you'd like further modifications or additional details added!
