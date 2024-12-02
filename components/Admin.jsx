@@ -4,7 +4,7 @@ import { BsCloudUploadFill } from "react-icons/bs";
 //INTERNAL IMPORT
 import { AdminInput, AdminDetails } from "./index";
 import { CONTEXT } from "../context/index";
-import { shortenAddress } from "../utils/index";
+import { shortenAddress } from "../helper1/index";
 
 const Admin = () => {
   const handleImage = () => {

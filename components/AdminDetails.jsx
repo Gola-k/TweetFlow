@@ -1,5 +1,5 @@
 import React from "react";
-import { shortenAddress } from "../utils/index";
+import { shortenAddress } from "../helper1/index";
 
 const AdminDetails = ({ transactionDetails, setTransactionDetails }) => {
   return (
