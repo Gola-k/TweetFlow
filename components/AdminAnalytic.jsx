@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 
 import { CONTEXT } from "../context/index";
-import { shortenAddress } from "../Utils/index";
+import { shortenAddress } from "../utils/index";
 
 const AdminAnalytic = () => {
   const {
