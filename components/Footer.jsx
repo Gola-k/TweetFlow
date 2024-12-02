@@ -96,7 +96,7 @@ const Footer = () => {
             <div class="row">
               <div class="col-lg-12">
                 <div class="copyright-text">
-                  <p>Copyright © 2024 XECO. All rights reserved.</p>
+                  <p>Copyright © 2024 TweetFlow. All rights reserved.</p>
                 </div>
               </div>
             </div>
