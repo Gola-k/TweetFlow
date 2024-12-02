@@ -1,7 +1,3 @@
-Here's the updated `README.md` file reflecting that this is a **complete project**, with no mention of a "starter file":
-
----
-
 # Crypto Airdrop Token Project
 
 ## Overview
